@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1593513082285
+Build-Jdk: 1.8.0_251
+Built-By: San
+Bundle-Description: Core bundle for training
+Bundle-ManifestVersion: 2
+Bundle-Name: AEM Training OSGI - Core 2
+Bundle-SymbolicName: training.core2
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.training.osgi.core.stringgen;version="2.1"
+Import-Package: javax.inject;version="0.0.0",javax.annotation;version="0
+ .0.0"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Sling-Model-Packages: com.training.osgi.core
+Tool: Bnd-4.1.0.201810181252

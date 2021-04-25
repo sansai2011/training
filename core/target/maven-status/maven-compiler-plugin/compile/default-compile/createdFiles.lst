@@ -1,0 +1,10 @@
+com\training\osgi\core\filters\LoggingFilter.class
+com\training\osgi\core\stringgen\StringGeneratorImpl.class
+com\training\osgi\core\schedulers\SimpleScheduledTask.class
+com\training\osgi\core\models\HelloWorldModel.class
+com\training\osgi\core\servlets\SimpleServlet.class
+com\training\osgi\core\stringgen\DemoBundleActivator.class
+com\training\osgi\core\package-info.class
+com\training\osgi\core\stringgen\StringGenerator.class
+com\training\osgi\core\listeners\SimpleResourceListener.class
+com\training\osgi\core\schedulers\SimpleScheduledTask$Config.class

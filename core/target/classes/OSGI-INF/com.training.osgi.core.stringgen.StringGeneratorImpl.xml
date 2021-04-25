@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.3.0" name="com.training.osgi.core.stringgen.StringGeneratorImpl" immediate="true">
+  <service>
+    <provide interface="com.training.osgi.core.stringgen.StringGenerator"/>
+  </service>
+  <implementation class="com.training.osgi.core.stringgen.StringGeneratorImpl"/>
+</scr:component>

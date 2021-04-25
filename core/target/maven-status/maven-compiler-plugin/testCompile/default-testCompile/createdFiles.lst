@@ -1,0 +1,5 @@
+com\training\osgi\core\listeners\SimpleResourceListenerTest.class
+com\training\osgi\core\models\HelloWorldModelTest.class
+com\training\osgi\core\filters\LoggingFilterTest.class
+com\training\osgi\core\servlets\SimpleServletTest.class
+com\training\osgi\core\schedulers\SimpleScheduledTaskTest.class
